@@ -5,6 +5,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.
-		Println("Hello, 世界")
+	print()
+}
+
+// add some comments
+func print() {
+	fmt.Println("Hello, 世界")
 }
