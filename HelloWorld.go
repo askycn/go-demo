@@ -6,6 +6,7 @@ import "fmt"
 import "./demo"
 
 func main() {
+	//i = 100
 	print()
 }
 
